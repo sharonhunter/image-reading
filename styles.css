@@ -1,0 +1,41 @@
+html {
+	background-color: #546a76;  /*slate blue*/
+	background-color: #a4bab7;  /*green*/
+	background-color: #dbd3c9;  /*tan*/
+}
+
+body {
+	font-family: Arial, sans-serif;
+	padding-bottom: 25px;
+}
+
+
+p, 
+ul, 
+li, 
+a {
+	font-size: 1em;
+	line-height: 1.6em;
+}
+
+code {
+	font-size: 1.3em;
+}
+
+.outer {
+	padding: 25px;
+}
+
+.section {
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fff;
+}
+
+.section__heading--main {
+  background-color: #a4bab7;  
+  padding:15px;
+  margin: 0px;
+}
+
